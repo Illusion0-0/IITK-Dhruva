@@ -502,6 +502,7 @@ p {
 .seven-right img {
   width: 65%;
   border-radius: 50%;
+  height: 50%;
 }
 .seven-right-up,
 .seven-right-down {
