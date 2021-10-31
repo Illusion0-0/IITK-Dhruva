@@ -585,6 +585,11 @@ input,
   background-color: black;
   box-shadow: white;
 }
+
+.space {
+  margin-top: 20px;
+}
+
 .in {
   border: none;
   margin: 10px 0;
